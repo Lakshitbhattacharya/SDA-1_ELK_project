@@ -65,9 +65,8 @@ This project answers:
 5. **Run and Analyze:**
    - Launch Kibana and explore visualizations.
 
----
 [Screencast from 16-12-24 06_21_55 PM IST.webm](https://github.com/user-attachments/assets/b580ce11-8ef0-42f6-8e58-c1a0b6534524)
----
+
 
 ## 🛠 **Technology Stack**
 - **Elasticsearch:** For indexing and querying data.
