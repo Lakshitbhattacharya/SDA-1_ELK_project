@@ -74,4 +74,7 @@ This project answers:
 
 ---
 
-https://github.com/Lakshitbhattacharya/SDA-1_ELK_project/issues/1
+![Screenshot from 2024-12-16 18-21-31](https://github.com/user-attachments/assets/9fa038e1-28f9-401c-bdfe-0c9dc243c3e5)
+![Screenshot from 2024-12-16 18-23-00](https://github.com/user-attachments/assets/227e7d5e-fd99-44b0-83e0-69e0b97cbdf0)
+![Screenshot from 2024-12-16 18-23-11](https://github.com/user-attachments/assets/ca659299-1ef4-4d06-977f-35e42b2e7f0c)
+![Screenshot from 2024-12-16 18-23-21](https://github.com/user-attachments/assets/da859f13-016d-46fa-a8e1-ffb769fb5298)
